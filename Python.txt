@@ -1,0 +1,28 @@
+To run jupyter notebook enter the following in cmd 
+python -m notebook 
+
+run: shift+enter
+insert cell above: esc->a
+insert cell below: esc->b
+convert markdown cell: esc->m
+convert code cell: esc->y
+delete a cell: esc, dd
+to see methods of an object add dot and press tab
+add question mark at end and run
+
+cb.lk/ml6j
+
+git
+git clone
+git add
+git commit
+git push
+git pull
+
+pandas
+opencv
+
+import cv2
+
+
+google colab
