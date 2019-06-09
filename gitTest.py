@@ -1,5 +1,4 @@
-print('Just for testing git')
-print('After modifying')
-print('Use git status to check status')
-print('Use git log to check log')
-print('Use git checkout -b branchname to create new branch')
+def greet(name):
+	print("Greetings " + name)
+greet("Keshav")
+greet("Aradhana")
